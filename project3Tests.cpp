@@ -2,7 +2,7 @@
 
 #include <iostream>
 #include <string>
-#include "tddFuncs.h"
+#include "tddFuncs.h" //contains assertEquals function definition
 #include "project3.h"
 using namespace std;
 
